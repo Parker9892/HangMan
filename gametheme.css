@@ -1,0 +1,46 @@
+body{
+   background-repeat: no-repeat;
+    background-size:100% 800px;
+   
+    background-image: url('https://www.nba.com/sixers/sites/sixers/files/styles/story_main_photo/public/legacy/main_photo/140227-iverson-scream-header640.png?itok=0BktxB0R')
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 100px;
+    margin-left: 400px;
+    margin-top: 60px;
+    
+}
+
+#split{
+    border: 1px solid white;
+    height: 400px;
+    
+   
+}
+#second{
+    border: 1px solid white;
+    height: 400px;
+    margin-left: 40%;
+    
+}
+
+hr{
+    border: 1px solid white;
+}
+
+div{
+    margin-top: 20px;
+}
+
+img{
+    color: white;
+    margin-left: 40%;
+}
+
+h4,h5{
+    color: white;
+}
