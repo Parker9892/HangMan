@@ -1,4 +1,4 @@
-alert('is working')
+
 
 console.log('sanity')
 // function hangman(m,a,d,o,n,n,a) {
